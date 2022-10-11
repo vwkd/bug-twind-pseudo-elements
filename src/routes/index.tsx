@@ -6,6 +6,7 @@ export default function Home() {
       <Head>
         <link rel="stylesheet" href="/reset.css" />
       </Head>
+      <div class="after:content-['ok']"></div>
     </div>
   );
 }
